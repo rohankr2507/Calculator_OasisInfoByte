@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="enter_1st_number">Enter 1st Number</string>
+    <string name="enter_2nd_number">Enter 2nd Number</string>
+    <string name="calculator">Calculator</string>
+    <string name="result_will_be_displayed_here">Result will be displayed here</string>
+    <string name="equals">=</string>
+    <string name="addition">+</string>
+    <string name="subtraction">-</string>
+    <string name="multiply">*</string>
+    <string name="divide">/</string>
+    <string name="modulo">MOD</string>
+    <string name="exponential">^</string>
+    <string name="clear">CLEAR</string>
+</resources>
